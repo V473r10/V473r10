@@ -8,7 +8,7 @@
 
 🏦 I am presently working at Quaris Soluciones (UY). A tech company that develop solutions for banks and financial entities, mainly for the loyalty area.
 
-🤝 If you think we can collaborate on cool projects. Let me know, don't doubt it.
+🤝 If you think we can collaborate on cool projects, let me know, don't doubt it.
 
 <!---
 V473r10/V473r10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

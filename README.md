@@ -4,9 +4,11 @@
 
 ⚡ 2 years ago I was working as a stock boy in a supermarket. And today, I write great pieces of code. Amazing.
 
-💻 I am very proficient in .NET, Angular and Kotlin. I can work on big backends solutions and their client implementations, on web or Android.
+💻 I am very proficient web technologies, & can learn anything!
 
 🏦 I am presently working at Quaris Soluciones (UY). A tech company that develop solutions for banks and financial entities, mainly for the loyalty area.
+
+🎯 Besides, I'm launching [Codedicated](https://codedicated.com), go take look!
 
 🤝 If you think we can collaborate on cool projects, let me know, don't doubt it.
 

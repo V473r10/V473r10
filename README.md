@@ -2,7 +2,7 @@
 
 🏠 My real name is Facundo Valerio, and my mom had me in Montevideo, Uruguay, one morning in november 1997.
 
-⚡ 2 years ago I was working as a stock boy in a supermarket. And today, I write great pieces of code. Amazing.
+⚡ 3 years ago I was working as a stock boy in a supermarket. And today, I write great pieces of code. Amazing.
 
 💻 I am very proficient web technologies, & can learn anything!
 
